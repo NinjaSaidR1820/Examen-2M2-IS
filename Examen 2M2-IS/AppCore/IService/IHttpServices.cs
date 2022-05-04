@@ -5,12 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Interfaces
+namespace AppCore.IService
 {
-    public interface IWeatherModel : IModel<OpenWeather>
+    public interface IHttpServices
     {
-        OpenWeather FindCity(string CityName);
-
-
+        Task<OpenWeather> GetWeatherByCityNameAsync(double lat, double lon, string time);
     }
 }
