@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32413.511
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen 2M2-IS", "Examen 2M2-IS\Examen 2M2-IS.csproj", "{052525EE-16A9-4B78-B111-D8799F3BE3BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen 2M2-IS_Presentation", "Examen 2M2-IS\Examen 2M2-IS_Presentation.csproj", "{052525EE-16A9-4B78-B111-D8799F3BE3BE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{BC0623BC-38FE-4758-AB6B-2117ADA42084}"
 EndProject

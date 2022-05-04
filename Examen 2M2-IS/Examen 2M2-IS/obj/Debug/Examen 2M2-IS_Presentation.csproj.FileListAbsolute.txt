@@ -1,0 +1,10 @@
+C:\Users\JADPA02\Source\Repos\Examen-2M2-IS\Examen 2M2-IS\Examen 2M2-IS\bin\Debug\Examen 2M2-IS.exe.config
+C:\Users\JADPA02\Source\Repos\Examen-2M2-IS\Examen 2M2-IS\Examen 2M2-IS\bin\Debug\Examen 2M2-IS.exe
+C:\Users\JADPA02\Source\Repos\Examen-2M2-IS\Examen 2M2-IS\Examen 2M2-IS\bin\Debug\Examen 2M2-IS.pdb
+C:\Users\JADPA02\Source\Repos\Examen-2M2-IS\Examen 2M2-IS\Examen 2M2-IS\obj\Debug\Examen 2M2-IS_Presentation.csproj.AssemblyReference.cache
+C:\Users\JADPA02\Source\Repos\Examen-2M2-IS\Examen 2M2-IS\Examen 2M2-IS\obj\Debug\Examen_2M2_IS.Form1.resources
+C:\Users\JADPA02\Source\Repos\Examen-2M2-IS\Examen 2M2-IS\Examen 2M2-IS\obj\Debug\Examen_2M2_IS.Properties.Resources.resources
+C:\Users\JADPA02\Source\Repos\Examen-2M2-IS\Examen 2M2-IS\Examen 2M2-IS\obj\Debug\Examen 2M2-IS_Presentation.csproj.GenerateResource.cache
+C:\Users\JADPA02\Source\Repos\Examen-2M2-IS\Examen 2M2-IS\Examen 2M2-IS\obj\Debug\Examen 2M2-IS_Presentation.csproj.CoreCompileInputs.cache
+C:\Users\JADPA02\Source\Repos\Examen-2M2-IS\Examen 2M2-IS\Examen 2M2-IS\obj\Debug\Examen 2M2-IS.exe
+C:\Users\JADPA02\Source\Repos\Examen-2M2-IS\Examen 2M2-IS\Examen 2M2-IS\obj\Debug\Examen 2M2-IS.pdb
