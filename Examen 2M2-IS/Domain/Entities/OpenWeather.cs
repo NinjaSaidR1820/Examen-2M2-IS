@@ -8,15 +8,6 @@ namespace Domain.Entities
 {
     public class OpenWeather
     {
-
-        public double lat { get; set; }
-        public double lon { get; set; }
-        public string timezone { get; set; }
-        public int timezone_offset { get; set; }
-        public Current current { get; set; }
-        public List<Hourly> hourly { get; set; }
-
-
         public class Weather
         {
             public int id { get; set; }
@@ -67,6 +58,15 @@ namespace Domain.Entities
             public Snow snow { get; set; }
         }
 
+        public class Root
+        {
+            public double lat { get; set; }
+            public double lon { get; set; }
+            public string timezone { get; set; }
+            public int timezone_offset { get; set; }
+            public Current current { get; set; }
+            public List<Hourly> hourly { get; set; }
+        }
 
     }
 }

@@ -8,7 +8,8 @@ namespace AppCore.IService
 {
     public interface IServices<T>
     {
-
         void Add(T t);
+        bool Delete(int id);
+        List<T> Read();
     }
 }

@@ -1,4 +1,5 @@
 ﻿using AppCore.IService;
+using Domain.Entities;
 using Domain.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -12,13 +13,26 @@ namespace AppCore.Services
     {
         private IModel<T> Model;
 
+
         protected BaseServices(IModel<T> model)
         {
             this.Model = model;
         }
-        public void Add(T t)
+
+
+        void IServices<T>.Add(T t)
         {
             Model.Add(t);
+        }
+
+        bool IServices<T>.Delete(int id)
+        {
+            return Model.Delete(id);
+        }
+
+        List<T> IServices<T>.Read()
+        {
+            return Model.Read();
         }
     }
 }
